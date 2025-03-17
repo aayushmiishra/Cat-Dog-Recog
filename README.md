@@ -1,5 +1,5 @@
 # Cat-Dog-Recog
-Dog vs. Cat Classification using CNN 🐶🐱
+Dog vs. Cat Classification using CNN 
 This project implements a Convolutional Neural Network (CNN) to classify images of dogs and cats. The model is trained on labeled images and predicts whether a given image contains a dog or a cat.
 
 Project Overview
